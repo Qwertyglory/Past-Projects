@@ -1,0 +1,9 @@
+Title: Jonny B. Goode|Rating: 1|Price: 5.0
+Title: One|Rating: 1|Price: 34.53
+Title: Kaptop Song|Rating: 5|Price: 2.89
+Title: Goodness|Rating: 9|Price: 2.85
+Title: Sad Song|Rating: 9|Price: 2.09
+Title: Despacito|Rating: 5|Price: 1.29
+Title: twerwer|Rating: 7|Price: 2.42
+Title: Life of Ethan|Rating: 4.0|365|4.65
+Title: Long Movie|Rating: 9.0|true|2 hour 29 minutes |2.64
